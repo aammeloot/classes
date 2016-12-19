@@ -195,7 +195,7 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 <br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/Fife-College/blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
 <br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql. 
 
-
+-->
 # Week 3
 
 1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
@@ -225,11 +225,11 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>14 . Use the employee id identified in Q1 to locate the employee details from the salaries table. 
 <br>15 . Find the employee details of the person with the lowest salary.
 <br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
-<!--
+
 <br>12 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
 <br>12 . Create an alias for the pension column in Q5 called “Pension”.
 <br>12 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
--->
+
 # Week 1 & 2
 
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
