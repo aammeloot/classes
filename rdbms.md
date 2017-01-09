@@ -181,6 +181,7 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 <br>16 . Which department has the least number of females on 1.1.1990?
 <br>17 . Continue with solving the SQL challenges of your fellow students. 
 
+-->
 
 # Week 4
 
@@ -195,7 +196,6 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 <br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/Fife-College/blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
 <br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql. 
 
--->
 # Week 3
 
 1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
