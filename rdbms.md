@@ -222,13 +222,12 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>11 . Count the number of employees in the employees database.
 <br>12 . Count the number of female employees that were born in the 50s.
 <br>13 . What is the employee id of the person with the highest salary?
-<br>14 . Use the employee id identified in Q1 to locate the employee details from the salaries table. 
+<br>14 . Use the employee id identified in Q13 to locate the employee details from the salaries table. 
 <br>15 . Find the employee details of the person with the lowest salary.
 <br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
-
-<br>12 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
-<br>12 . Create an alias for the pension column in Q5 called “Pension”.
-<br>12 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
+<br>17 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
+<br>18 . Create an alias for the pension column in Q5 called “Pension”.
+<br>19 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
 
 # Week 1 & 2
 
