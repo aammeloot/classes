@@ -198,6 +198,21 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 
 # Week 3
 
+<br>1 . Using MySql on Ygritte interactively:
+```
+you@ygritte:~$ mysql -u student employees
+mysql> select * from employees limit 10;
+```
+<br>2 . Using MySql using a script
+
+```
+mkdir sqlexercises
+cd sqlexercises
+gedit test.sql
+select * from employees limit 10;
+you@ygritte:~$ mysql -t -u student employees < test.sql
+```
+
 1 . [Select](http://www.w3schools.com/sql/sql_select.asp)
 <br>2 . [Where](http://www.w3schools.com/sql/sql_where.asp)
 <br>3 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
