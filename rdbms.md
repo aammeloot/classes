@@ -151,6 +151,7 @@ Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and comple
 <br>3 . Show the top 10 employees that have moved department the most. (use file wk6.sql) 
 <br>4 . Are there any employees that have the same first/last name and DOB?
 
+-->
 
 # Week 5
 
@@ -181,7 +182,6 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 <br>16 . Which department has the least number of females on 1.1.1990?
 <br>17 . Continue with solving the SQL challenges of your fellow students. 
 
--->
 
 # Week 4
 
