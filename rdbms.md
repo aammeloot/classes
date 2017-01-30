@@ -140,6 +140,7 @@ Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and comple
 <br>7 . Show the top 10 employees that have had the most changes in salary.
 <br>8 . Show the top 10 employees that have had the most changes in title. 
 <br>9 . Put the answers to your github SQL challenges on github. Check your challenge answers against other students.
+-->
 # Week 6
 
 1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
@@ -151,7 +152,6 @@ Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and comple
 <br>3 . Show the top 10 employees that have moved department the most. (use file wk6.sql) 
 <br>4 . Are there any employees that have the same first/last name and DOB?
 
--->
 
 # Week 5
 
