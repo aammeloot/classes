@@ -83,6 +83,7 @@ SELECT * FROM employees LIMIT 10;
 <br> 3 . Insert data into the tables.
 <br> 4 . Run previous weeks queries against your new database.
 
+-->
 
 # Week 8
 
@@ -119,7 +120,7 @@ http://localhost:8???/DVWA-1.9/vulnerabilities/sqli/index.php
 <br> 7 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
 
 <br> 8 . Idenfity other SQL Injection exploits and document them in a file on Ygritte called "exploits.txt".
--->
+
 
 # Week 7
 
