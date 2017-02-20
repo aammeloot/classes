@@ -55,6 +55,8 @@
 <br> 4 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
 <br> 5 . [Week 9 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
 
+-->
+
 # Week 9
 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
@@ -83,7 +85,6 @@ SELECT * FROM employees LIMIT 10;
 <br> 3 . Insert data into the tables.
 <br> 4 . Run previous weeks queries against your new database.
 
--->
 
 # Week 8
 
