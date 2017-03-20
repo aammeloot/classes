@@ -57,6 +57,31 @@
 
 -->
 
+# Block 3 Week 1
+
+<br> 1 . Assessment schedule:
+```
+vim /home/share/assessments/rdbms/readme.txt
+```
+<br> 2 . LO3 & LO4 Assessment:
+```
+firefox /home/share/assessments/rdbms/sql.pdf
+```
+<br> 3 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
+<br> 4 . [Concat Function](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
+<br> 5 . [Week 11&12 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
+
+## Exercises
+
+<br>1 . Complete Task 1 of the assessment using the following [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0).
+<br>2 . Use the following set up commands to complete the remaining SQL tasks:
+```
+mkdir sqlass
+cd sqlass
+cp /home/share/assessments/rdbms/orderdata.sql .
+cp /home/share/assessments/rdbms/tabledata.sql .
+```
+
 # Graded Unit Revision
 
 [Software Development Mindmap](https://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
