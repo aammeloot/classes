@@ -57,9 +57,9 @@
 
 -->
 
-# Block 3 Week 1
+# Block 3 Week 1 & 2
 
-<br> 1 . Assessment schedule (coming soon)
+<br> 1 . Assessment schedule on iLearn
 <br> 2 . LO3 & LO4 Assessment on iLearn
 <br> 3 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
 <br> 4 . [Concat Function](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
