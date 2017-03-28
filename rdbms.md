@@ -63,7 +63,9 @@
 <br> 2 . LO3 & LO4 Assessment on iLearn
 <br> 3 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
 <br> 4 . [Concat Function](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
-<br> 5 . [Week 11&12 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
+<br> 5 . [Auto Increment](http://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html)
+<br> 6 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
+<br> 7 . [Week 11&12 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
 
 ## Exercises
 
