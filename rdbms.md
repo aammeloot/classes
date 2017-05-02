@@ -57,6 +57,23 @@
 
 -->
 
+# Block 3 Weeks 5 - 6
+
+1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br>2 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>3 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>4 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+<br>5 . [Normalisation 1](https://1drv.ms/b/s!AjWgLv6g5210gdYcZqWA6a3fHZCRAA)
+<br>6 . [Normalisation 2](https://1drv.ms/b/s!AjWgLv6g5210gdYbwz-a-2BqzKKuBA)
+<!--
+<br>5 . [Introduction To Database Modelling](https://m.youtube.com/watch?v=rBCXhbA3hPg)
+id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
+-->
+## Exercises
+
+1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be known at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
+<br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
+
 # Block 3 Week 3
 
 <br>1 . [Database Design Tutorial](https://www.tutorialspoint.com/dbms/)
