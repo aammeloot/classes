@@ -55,7 +55,7 @@
 <br> 4 . [NULL Values](http://www.w3schools.com/sql/sql_null_values.asp)
 <br> 5 . [Week 9 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
 
--->
+
 
 # Block 3 Week 8
 
@@ -323,6 +323,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>18 . Create an alias for the pension column in Q5 called “Pension”.
 <br>19 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
 
+-->
 # Week 1 & 2
 
 1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
